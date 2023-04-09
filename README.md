@@ -28,11 +28,4 @@ This project is the implementation of End to End Memory Networks to build Questi
 * The models with two or more layers required more training since there are more parameters that need to be set, but then have greater accuracies than the other models once trained completely.
 * Overall, LSTM based models performed better than GRU based models for this task.
 
-## References
 
-- Jason Weston, Antoine Bordes, Sumit Chopra, Tomas Mikolov, Alexander M. Rush,
-  "Towards AI-Complete Question Answering: A Set of Prerequisite Toy Tasks",
-  (http://arxiv.org/abs/1502.05698)
-- Sainbayar Sukhbaatar, Arthur Szlam, Jason Weston, Rob Fergus,
-  "End-To-End Memory Networks",
-  (http://arxiv.org/abs/1503.08895)
